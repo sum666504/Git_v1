@@ -1,1 +1,2 @@
 Another revert commit.this is comparision in file 2
+this is stach , change in file 2
