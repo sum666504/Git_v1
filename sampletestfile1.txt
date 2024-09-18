@@ -1,3 +1,5 @@
 This is sample file 1.1
 
 Testing reset.
+
+3rd test.
